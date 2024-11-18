@@ -1,0 +1,4 @@
+it\lessons\la_mia_pizzeria_crud\SpringLaMiaPizzeriaCrudApplication.class
+it\lessons\la_mia_pizzeria_crud\repository\PizzaRepository.class
+it\lessons\la_mia_pizzeria_crud\model\Pizza.class
+it\lessons\la_mia_pizzeria_crud\controller\PizzaController.class
